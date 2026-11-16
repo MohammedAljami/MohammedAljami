@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MohammedAljami/MohammedAljami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# محمد عبدة محمد مصلح
+### Mohammed Abdo Mohammed Musleh
 
-Here are some ideas to get you started:
+**Java Developer | HTML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub Profile](https://github.com/MohammedAljami) · [Resume Website](https://github.com/MohammedAljami/ResumeWebSite-)
+
+</div>
+
+---
+
+## About Me
+
+مرحبًا، أنا محمد عبدة محمد مصلح. أشارك هنا مشاريعي وتجاربي البرمجية، وأعمل على تطوير مهاراتي في البرمجة وبناء تطبيقات عملية.
+
+Hello, I'm Mohammed Abdo Mohammed Musleh. I use GitHub to share my programming projects and continue developing my skills through hands-on work.
+
+## Technologies
+
+- Java
+- HTML
+
+## Selected Projects
+
+- [Resume Website](https://github.com/MohammedAljami/ResumeWebSite-) — Personal resume website.
+- [DataStructor](https://github.com/MohammedAljami/DataStructor) — Java project.
+
+## Contact
+
+For professional inquiries, please contact me through my [GitHub profile](https://github.com/MohammedAljami).
+
+---
+
+*This profile is a work in progress. More projects and details will be added as they are ready.*
